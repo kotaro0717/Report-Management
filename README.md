@@ -1,9 +1,13 @@
-Report Management
-|- 中間報告
-|	|- 報告書 (Word Documents)
-|	|- 内容梗概 (Excel Documents)
-|	|- 発表資料 (PowerPoint Documents)
-|- 最終報告
-	|- 報告書 (Word Documents)
-	|- 内容梗概 (Excel Documents)
-	|- 発表資料 (PowerPoint Documents)
+#Report Management
+
+項番 | 中間報告
+------------ | -------------
+1　|　報告書 (Word Documents)
+2　|　内容梗概 (Excel Documents)
+3　|　発表資料 (PowerPoint Documents)
+
+項番　|　最終報告
+------------ | -------------
+1　|　報告書 (Word Documents)
+2　|　内容梗概 (Excel Documents)
+3　|　発表資料 (PowerPoint Documents)
